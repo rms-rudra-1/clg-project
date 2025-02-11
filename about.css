@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #bba14f;
+}
+
+body {
+    background: linear-gradient(35deg, #242424, 50%, rgb(36, 36, 36));
+    min-height: 100vh;
+}
+
+section {
+    padding: 10rem 9% 2rem;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.text-content h2 {
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 550;
+}
+
+.text contents p {
+    font-size: 20px;
+}
